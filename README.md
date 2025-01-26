@@ -1,4 +1,4 @@
-## Comparative Study Between Ensemble Learning and Evolutionary Learning to solve the Higgs Bozon Detection
+## Comparative study between Ensemble Learning and Evolutionary Learning to solve the Higgs Boson Detection
 
 _Authors: Alessia SARRITZU, Alberto MARTINELLI_
 <br>
